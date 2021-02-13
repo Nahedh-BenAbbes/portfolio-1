@@ -24,7 +24,6 @@ html,body{
 }
 
  body {
-  background-image:url("https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -349,3 +348,20 @@ footer span {
 	color: #8D8273;
 	font-weight: 600;
 }
+a {
+	margin-left: 400px;
+}
+.socials {
+    display: inline-block;
+    width: 100%;
+   }
+    .socials > a {
+      display: inline-block;
+      width: 40px;
+      height: 40px;
+      font-size: 13px;
+      line-height: 60px;
+      color: white;
+      text-decoration: none;
+      margin-bottom: 30px;
+    }
